@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<npc id="19574">
+		<set name="level" value="99"/>
+		<set name="hp" value="32558"/>
+		<set name="race" value="magic creatures"/>
+		<drops>
+			<group type="Spoil">
+				<category id="0">
+					<item id="40051" name="Scroll: 100,000 SP" count_min="1" count_max="3" chance="69.2"/>
+					<item id="40052" name="Scroll: 1,000,000 SP" count_min="1" count_max="1" chance="13.6"/>
+					<item id="40053" name="Scroll: 10,000,000 SP" count_min="1" count_max="1" chance="1.4"/>
+				</category>
+			</group>
+		</drops>
+	</npc>
+</list>
